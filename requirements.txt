@@ -1,0 +1,4 @@
+jupyterlab
+nbqa
+jupyterlab-code-formatter
+matplotlib
